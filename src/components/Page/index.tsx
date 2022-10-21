@@ -14,7 +14,7 @@ export const Page: React.FC<IPageProps> = ({ children, backgroundColor }) => {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        p: 10,
+        p: 5,
         backgroundColor,
       }}
     >
